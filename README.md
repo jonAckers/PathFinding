@@ -3,8 +3,8 @@ An application to visualise shortest path finding algorithms.
 
 ## How to run
 First, download and compile the code using your preferred C++ compiler. <br />
-The GUI is written using the [wxWidgets](https://www.wxwidgets.org/) library so that will need to be installed ([guide here](https://wiki.wxwidgets.org/Install)).
-Then run the executable that is created after the compilation completes. <br />
+The GUI is written using the [wxWidgets](https://www.wxwidgets.org/) library so that will need to be installed ([guide here](https://wiki.wxwidgets.org/Install)).  <br />
+Then run the executable that is created after the compilation completes.
 
 ## How to use
 ### Creating the map
